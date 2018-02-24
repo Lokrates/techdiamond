@@ -6,3 +6,5 @@ A Mintetest-Mod for creating diamonds with the Technic-Mod.
 4. Compressing the Graphiteblock to a Diamond.
 
 You need 36 coal for a diamond.
+
+Licence: LGPLv2.1
